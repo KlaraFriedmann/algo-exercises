@@ -4,8 +4,6 @@ Solve these four algorithmic exercises. If you have any questions or need help, 
 
 ## Exercises
 
-### Subarray 
-
 - [Subarray Divison](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 - [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
